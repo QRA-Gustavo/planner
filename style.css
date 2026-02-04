@@ -14,7 +14,7 @@ color: white;
     border: 2px solid #2d6cdf;
     width: 100%;
     max-width: 400px;
-    min-height: 250px;
+    min-height: 450px;
     margin: 0 auto;
     border-radius: 12px;
     align-items: center;
@@ -27,6 +27,7 @@ color: white;
     margin-bottom: 5px;
 }
 ul {
+    
     font-size: 30px;
     list-style: none;
     margin-top: 5px;
