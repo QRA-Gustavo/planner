@@ -29,6 +29,7 @@ color: white;
 }
 ul {
     font-size: 30px;
+    list-style: none;
 }
 .add-na-segunda {
     display: block;
@@ -42,3 +43,4 @@ ul {
 .add-na-segunda:hover {
     background-color: #2d6cdf;
 }
+
