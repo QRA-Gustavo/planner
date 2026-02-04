@@ -35,6 +35,8 @@ ul {
     width: 80%;
     height: 1px;
     background-color: #2d6cdf;
+    margin-top: 5px;
+    margin-bottom: 5px;
 }
 .add-na-segunda {
     display: block;
@@ -48,4 +50,3 @@ ul {
 .add-na-segunda:hover {
     background-color: #2d6cdf;
 }
-
