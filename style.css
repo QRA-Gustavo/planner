@@ -88,9 +88,12 @@ color: white;
 }
 
 
-
+html {
+  font-size: 24px; /* padrão */
+}
 @media (max-width: 480px) {
     html {
-    font-size: 68px; /* aumenta tudo no celular */
+    font-size: 24px; /* aumenta tudo no celular */
     }
 }
+
