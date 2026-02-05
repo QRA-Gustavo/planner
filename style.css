@@ -91,6 +91,6 @@ color: white;
 
 @media (max-width: 480px) {
     html {
-    font-size: 24px; /* aumenta tudo no celular */
+    font-size: 34px; /* aumenta tudo no celular */
     }
 }
