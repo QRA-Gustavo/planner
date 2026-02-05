@@ -48,6 +48,7 @@ color: white;
     font-size: 20px;
     border: none;
     border-radius: 8px;
+    margin-bottom: 5px;
 }
 .add-na-segunda:hover {
     background-color: #2d6cdf;
