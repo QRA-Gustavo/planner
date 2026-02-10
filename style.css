@@ -97,6 +97,16 @@ color: white;
     margin-bottom: 10px;
 }
 
+
+.rodape {
+    width: 100%;
+    background-color: #111;
+    color: #fff;
+    border-top: 1px solid #2d6cdf;
+    padding: 20px;
+    text-align: center;
+}
+
 html {
   font-size: 24px; /* padrão */
 }
